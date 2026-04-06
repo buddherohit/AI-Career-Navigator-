@@ -1,2 +1,2 @@
 # AI-Career-Navigator-
-Java Spirng Project 
+Java Spirng Boot Project 
