@@ -1,3 +1,3 @@
 # AI-Career-Navigator-
-Java Spirng Boot Project 
+Java Spirng Boot Project mYSQL
 use java , Spring 
